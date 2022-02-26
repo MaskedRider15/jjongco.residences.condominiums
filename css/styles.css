@@ -1,0 +1,206 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1{
+  font-size: 3.5rem;
+  line-height: 1.5rem;
+
+}
+h2 {
+  color:#ef8172;
+  /* font-size: 2.5rem; */
+  line-height: 1.5rem;
+}
+
+h3 {
+  color:#ef8172;
+  /* font-size: 2.0rem; */
+  font-weight: bold;
+}
+
+h4 {
+  color:#ef8172;
+  font-weight: bold;
+  line-height: 1.75rem;
+  text-align: center;
+}
+
+h5 {
+  color:#ef8172;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+hr {
+  border: dotted #EAF6F6  6px;
+  border-bottom:none;
+  margin: 100px auto;
+  width:5%;
+}
+
+
+/* NAVIVATION BAR */
+.navbar {
+  padding: 1 0 1.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+/* CONTAINERS */
+.container-fluid {
+  text-align: center;
+}
+.container {
+    background-color: #CAF0F8;
+}
+
+/* SECTIONS */
+.cream1-section {
+ /* background-color: #FAEEE0;  */
+  background-color: #FDF6F0;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.cream2-section {
+  /* background-color: #FCD8D4; */
+  background-color: #FFF;
+  padding:3% 15%;
+}
+
+.cream3-section {
+  background-color: #FCD8D4;
+  padding:3% 15%;
+}
+
+.cream4-section {
+  background-color: #C1A3A3;
+  padding:3% 15%;
+}
+
+.cream5-section {
+  background-color: #886F6F;
+  padding: 1% 15%;
+}
+.cream6-section {
+  background-color: #FFF;
+  padding: 1% 15%;
+}
+
+.cream7-section {
+  background-color: #694E4E;
+  padding: 2% 15%;
+}
+
+/* FEATURES-1 */
+.feature-tagline {
+  color:#ef8172;
+  font-size: 3.0rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.glamphoto {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  /* border-radius: 100px; */
+  width: 100%;
+  max-width: 800px;
+  height:auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* FEATURES-2 ICONS */
+.feature-box {
+  padding: 3%;
+ color:#FF8356;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* CARD ACCOMMODATION TYPE */
+#accommodation {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.row {
+  margin-bottom: 10%;
+}
+.card-link {
+    text-align:center;
+}
+
+.card {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    padding: 30px 50px 30px;
+    text-align:center;
+}
+
+/* RESIDENCES PHOTO CAROUSEL */
+.residence-image {
+  width: 80%;
+  max-width: 800px;
+  height:80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.condominium-image {
+  width: 80%;
+  max-width: 800px;
+  height:80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* LOCATION */
+.googlemap {
+    width: 100%;
+}
+
+.map-wrapper {
+    max-width: 768px;
+    border: 2px solid ##ef8172;
+}
+
+/* /CONTACT US */
+
+
+/* FOOTER */
+.social-icon {
+  color: #ef8172;
+  margin: 30px 30px;
+  font-size: 1.5rem;
+}
+
+.copyright-text {
+  font-size: 1.0rem;
+  color: #FFF;
+}
